@@ -10,3 +10,5 @@ vim /etc/sysconfig/iptables
 service iptables restart
 
 service jenkins start
+
+cd /usr/lib/jenkins
