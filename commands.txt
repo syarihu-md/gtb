@@ -20,3 +20,6 @@ mkdir ./test_file
 touch ./test_file/make_test.txt
 
 ↑これを追記
+
+
+chmod +x make_file.sh
