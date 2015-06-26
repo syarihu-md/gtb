@@ -23,3 +23,10 @@ touch ./test_file/make_test.txt
 
 
 chmod +x make_file.sh
+sh make_file.sh
+
+ls -al
+
+test_fileがあることを確認
+
+
