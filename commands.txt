@@ -12,3 +12,11 @@ service iptables restart
 service jenkins start
 
 cd /usr/lib/jenkins
+
+vi make_file.sh
+
+#! /bin/sh
+mkdir ./test_file
+touch ./test_file/make_test.txt
+
+↑これを追記
